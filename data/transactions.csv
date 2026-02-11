@@ -1,0 +1,6 @@
+transaction_id,customer_id,account_id,transaction_amount,transaction_type,transaction_time,city,device_type
+1,101,5001,2500,debit,2025-01-01 10:00:00,Dubai,mobile
+2,102,5002,12000,debit,2025-01-01 10:05:00,Sharjah,web
+3,101,5001,3000,credit,2025-01-01 11:00:00,Dubai,mobile
+4,103,5003,700,debit,2025-01-02 09:00:00,Abu Dhabi,ATM
+5,101,5001,15000,debit,2025-01-02 09:30:00,Dubai,web
